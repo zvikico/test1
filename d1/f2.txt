@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 2 zviki zviki 4096 2010-09-27 11:46 .
+drwxr-xr-x 4 zviki zviki 4096 2010-09-27 11:46 ..
+-rw-r--r-- 1 zviki zviki    0 2010-09-27 11:46 f2.txt
