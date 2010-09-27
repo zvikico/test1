@@ -3,6 +3,6 @@ drwxr-xr-x 5 zviki zviki 4096 2010-09-27 12:01 .
 drwxr-xr-x 7 zviki zviki 4096 2010-09-27 11:44 ..
 drwxr-xr-x 2 zviki zviki 4096 2010-09-27 11:46 d1
 drwxr-xr-x 2 zviki zviki 4096 2010-09-27 11:47 d2
--rw-r--r-- 1 zviki zviki    0 2010-09-27 12:01 f1.txt
--rw-r--r-- 1 zviki zviki  368 2010-09-27 12:01 f3.txt
+-rw-r--r-- 1 zviki zviki    7 2010-09-27 11:46 f1.txt
+-rw-r--r-- 1 zviki zviki    0 2010-09-27 12:01 f3.txt
 drwxr-xr-x 8 zviki zviki 4096 2010-09-27 12:01 .git
