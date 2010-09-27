@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 5 zviki zviki 4096 2010-09-27 16:21 .
+drwxr-xr-x 8 zviki zviki 4096 2010-09-27 15:15 ..
+drwxr-xr-x 2 zviki zviki 4096 2010-09-27 16:05 d1
+drwxr-xr-x 2 zviki zviki 4096 2010-09-27 11:47 d2
+-rw-r--r-- 1 zviki zviki  368 2010-09-27 16:05 f1.txt
+-rw-r--r-- 1 zviki zviki  368 2010-09-27 16:05 f3.txt
+-rw-r--r-- 1 zviki zviki  422 2010-09-27 16:14 f4.txt
+-rw-r--r-- 1 zviki zviki    0 2010-09-27 16:21 f5.txt
+drwxr-xr-x 8 zviki zviki 4096 2010-09-27 16:21 .git
